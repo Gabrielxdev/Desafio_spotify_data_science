@@ -1,6 +1,4 @@
-Aqui está o seu texto transformado em um arquivo Markdown estruturado e profissional, pronto para ser usado no GitHub ou na documentação do projeto (ex: `README.md`).
 
------
 
 # Modelo de Classificação de Músicas do Spotify
 
